@@ -1,1 +1,3 @@
-# javascript_journy
+# Javascript Journey
+
+Attempting to teach myself web dev.
